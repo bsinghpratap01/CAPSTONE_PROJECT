@@ -1,6 +1,6 @@
 # AWS Settings
-aws_access_key = "AKIA6I6D6TBZVQLX3H4T"
-aws_secret_key = "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"
+aws_access_key = "AKIA6xxxxxxxxxxxx3H4T"
+aws_secret_key = "oPFuE2QLKgyP99pmeQwd/TkcoX9S+zzxxxxxxxxx"
 aws_region     = "us-east-1"
 
 # Network
